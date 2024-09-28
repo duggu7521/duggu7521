@@ -1,4 +1,4 @@
-yes - 👋 Hi, I’m @duggu7521
+ - 👋 Hi, I’m @duggu7521
 - 👀 I’m interested in playing
 - 🌱 I’m currently learning how to do coding
 - 💞️ I’m looking to collaborate on nothing
